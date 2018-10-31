@@ -12,3 +12,5 @@ related_posts: []
 This is an example of a draft post. Draft posts aren't included when publishing your site.
 
 This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
+
+![](/uploads/2018/10/31/Defense.gov_photo_essay_110616-D-BC253-003.jpg)
